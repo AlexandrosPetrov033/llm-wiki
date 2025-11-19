@@ -13,3 +13,4 @@ Notes and usage details for llm-wiki.
 - link the usage section
 - fix a small wording issue
 - fix a small wording issue
+- fix a small wording issue
